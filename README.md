@@ -1,2 +1,1 @@
-# leetcode-shell
-Solutions to LeetCode Shell problems using UNIX commands and/or Bash scripts
+This repository contains only Shell problem solutions from LeetCode using UNIX commands and/or Bash scripts.
